@@ -1,1 +1,7 @@
 venv/
+db.
+db.postgressql
+db.sq
+db.sql
+db.sqlite
+db.sqlite3
